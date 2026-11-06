@@ -1,0 +1,125 @@
+# HORS CHAMP — source de vérité éditoriale
+# Modifie ce fichier pour changer les textes de la landing page.
+# Prix, matières exactes, stocks et dates restent à confirmer.
+
+brand:
+  name: "HORS CHAMP"
+  tagline: "Des vêtements essentiels, construits pour vivre dehors."
+  territory:
+    - "Sobriété parisienne"
+    - "Volume contemporain"
+    - "Imperfection assumée"
+    - "Protection technique"
+    - "Nostalgie sportswear"
+
+announcement:
+  - "Drop 01 — Outside System"
+  - "Lancement : date à confirmer"
+  - "Accès anticipé ouvert"
+
+drop:
+  label: "Drop 01"
+  name: "Drop 01 — Outside System"
+  title: "Outside System"
+  status: "Collection de démonstration"
+  launch_date: "Date à confirmer"
+  primary_cta:
+    label: "Accéder au drop"
+    href: "#access"
+  secondary_cta:
+    label: "Découvrir la collection"
+    href: "#collection"
+
+manifesto:
+  title: "Pas une saison."
+  title_accent: "Un système."
+  text: "Des pièces simples, pensées pour les déplacements, les couches et les usages quotidiens. Portées, usées, recontextualisées — c'est là qu'elles prennent leur forme."
+
+lookbook:
+  title: "Silhouettes dehors"
+  intro: "Béton, métal, bitume, vestiaires. Cadrages partiels et lumière froide — les images arriveront avec le shooting du drop."
+  looks:
+    - code: "LK-01"
+      caption: "Silhouette en mouvement · béton"
+      image: ""
+    - code: "LK-02"
+      caption: "Cadrage partiel · Layer Shell"
+      image: ""
+    - code: "LK-03"
+      caption: "Détail matière · coton lavé"
+      image: ""
+    - code: "LK-04"
+      caption: "Vestiaire · lumière froide"
+      image: ""
+    - code: "LK-05"
+      caption: "Bitume · flash direct"
+      image: ""
+
+products:
+  - name: "Field Hoodie"
+    layer: "L.02 / Mid"
+    icon: "hoodie"
+    description: "Hoodie oversize en coton lourd, lavé et structuré."
+    status: "Produit de démonstration"
+    price: "Prix à confirmer"
+  - name: "Layer Shell"
+    layer: "L.03 / Shell"
+    icon: "shell"
+    description: "Une couche légère pensée pour protéger sans alourdir."
+    status: "Produit de démonstration"
+    price: "Prix à confirmer"
+  - name: "Archive Tee"
+    layer: "L.01 / Base"
+    icon: "tee"
+    description: "Un t-shirt ample, marqué par un imprimé discret."
+    status: "Produit de démonstration"
+    price: "Prix à confirmer"
+  - name: "Signal Cap"
+    layer: "L.04 / Signal"
+    icon: "cap"
+    description: "Une casquette souple avec un détail réfléchissant."
+    status: "Produit de démonstration"
+    price: "Prix à confirmer"
+
+construction:
+  title: "Le système des couches"
+  intro: "Chaque pièce occupe une couche. Portées seules ou ensemble, elles se superposent sans se contredire — du t-shirt de base à la coque de protection."
+  specs:
+    - label: "Coupes"
+      value: "Silhouettes amples, volumes calmes, pensées pour être portées en couches."
+    - label: "Matières"
+      value: "Coton lourd lavé, toile légère de protection."
+      note: "Compositions exactes à confirmer."
+    - label: "Finitions"
+      value: "Patine légère, imprimés discrets, détails réfléchissants pour la nuit."
+    - label: "Tailles"
+      value: "Coupe ample assumée."
+      note: "Guide des tailles à confirmer avant l'ouverture."
+    - label: "Usage"
+      value: "Déplacements, ville, dehors. Des vêtements qui gagnent à être usés."
+
+access:
+  title: "Le drop arrive bientôt."
+  text: "Inscris-toi pour recevoir l'accès anticipé et les informations de lancement."
+  input_label: "Ton adresse email"
+  button_label: "Rejoindre la liste"
+  confirmation_message: "Merci. Tu recevras les prochaines informations du drop."
+  reassurance: "Pas de compte · pas de paiement · désinscription en un clic"
+  backend_required: false
+
+footer:
+  links:
+    - label: "Collection"
+      href: "#collection"
+    - label: "Manifeste"
+      href: "#manifeste"
+    - label: "Contact"
+      href: "#access"
+    - label: "Instagram"
+      href: "https://www.instagram.com/"
+  legal:
+    - label: "Mentions légales"
+      href: "#"
+    - label: "Politique de confidentialité"
+      href: "#"
+  copyright: "© 2026 Hors Champ — marque fictive, collection de démonstration"
