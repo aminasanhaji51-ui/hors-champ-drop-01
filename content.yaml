@@ -115,6 +115,8 @@ footer:
       href: "#manifeste"
     - label: "Contact"
       href: "#access"
+    - label: "06 12 34 56 78"
+      href: "tel:+33612345678"
     - label: "Instagram"
       href: "https://www.instagram.com/"
   legal:
